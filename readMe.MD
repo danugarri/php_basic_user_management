@@ -1,4 +1,4 @@
-# Práctica [80 puntos]:
+
 La aplicación web tiene que tener formato “css…”
 1.	Se desea programar una aplicación web para gestionar una lista de perfiles de usuario. De cada usuario se guarda nombre y apellidos, dirección, teléfono, correo electrónico, etc. En una tabla llamada usuarios. La aplicación se compondrá de tres páginas:
 
